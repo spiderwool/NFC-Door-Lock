@@ -4,8 +4,8 @@ Hello, this is my journal for my project to create a nfc and apple home compatib
 ---
 title: NFC-Door Lock
 author: Siddharth Karthikeyan
-description: "A short description of your project"
-created_at: "2026-03-20"
+description: adding a nfc-controlled lock to my door
+created_at: "2026-09-28"
 ---
 
 # September 28: Got my rough sketch of what I want to do
@@ -14,8 +14,10 @@ Today, I drafted my plan. I plan on using an esp32 and program it through esp-ho
 
 ![alt text](rough_sketch.HEIC)
 
+** Total time spent: 2 hours **
 
-# September 28: Get parts list together
+
+# September 29: Get parts list together
 
 Today, I am getting together my parts list!
 
@@ -27,6 +29,7 @@ Today, I am getting together my parts list!
     - I don't need a raspberry pi 4B now because I just got my own so I can host everything.
     - I have access to a 3d printer at my local ftc team, so I will not need anything printed
 
+![alt text](<Screenshot 2026-09-29 at 7.02.11 PM.png>)
 ** Total time spent: 3 hours ** 
 
 
