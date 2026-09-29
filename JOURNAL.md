@@ -1,6 +1,3 @@
-Hello, this is my journal for my project to create a nfc and apple home compatible lock to my room
-
-
 ---
 title: NFC-Door Lock
 author: Siddharth Karthikeyan
