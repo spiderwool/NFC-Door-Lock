@@ -11,7 +11,7 @@ Today, I drafted my plan. I plan on using an esp32 and program it through esp-ho
 
 ![alt text](rough_sketch.HEIC)
 
-** Total time spent: 2 hours **
+**Total time spent: 2 hours**
 
 
 # September 29: Get parts list together
@@ -27,6 +27,6 @@ Today, I am getting together my parts list!
     - I have access to a 3d printer at my local ftc team, so I will not need anything printed
 
 ![alt text](<Screenshot 2026-09-29 at 7.02.11 PM.png>)
-** Total time spent: 3 hours ** 
+**Total time spent: 3 hours** 
 
 
