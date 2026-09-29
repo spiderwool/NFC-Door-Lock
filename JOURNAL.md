@@ -26,7 +26,8 @@ Today, I am getting together my parts list!
     - I don't need a raspberry pi 4B now because I just got my own so I can host everything.
     - I have access to a 3d printer at my local ftc team, so I will not need anything printed
 
-![alt text](<Screenshot 2026-09-29 at 7.02.11 PM.png>)
+![alt text](<NFC Tags for Mobile Devices.jpeg>)1
+
 **Total time spent: 3 hours** 
 
 
