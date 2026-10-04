@@ -30,4 +30,8 @@ Today, I am getting together my parts list!
 
 **Total time spent: 3 hours** 
 
+# October 3: Finding stl of my door knob
+    - I spent WAY too long trying to find my exact door model, I did, but you know what, the seller DOESN'T have any files in it(https://www.amazon.com/dp/B09XHF8HBH?plpRedirect=mhFallback&ref=clp_hp_h_pc&th=1):sob:, and I did SO much research that I came across ANOTHER video that was trying to find THEIR doorknob and I saw that they just used polyscan on their phone to just get it that way, so that is what I did(took SIX times btw) and still NONE of them worked because it's reflective :sob:.
+
+**Total time spent: 5 hours**
 
