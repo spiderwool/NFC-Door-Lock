@@ -44,4 +44,5 @@ Today, I am getting together my parts list!
 # October 3: Adding more parts and creating the outline of how the servo will connect to the knob. Also finished the knob mainly
     I didn't have a reason to get more detailed on the knob so I just did a simple loft. I added a door, esp32, and servo. Next time, I will add some wiring and work on the connection between the servo and the knob. I need to make it so that the knob will still be able to be turned to open.
     ![alt text](<Screenshot 2026-10-04 at 8.16.29 PM-1.png>)
-**Total time spent: 2 hours**
+    
+**Total time spend: 2 hours**
