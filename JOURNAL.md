@@ -31,9 +31,7 @@ Today, I am getting together my parts list!
 **Total time spent: 3 hours** 
 
 # October 3: Finding stl of my door knob
-    I spent WAY too long trying to find my exact door model, but after a while I did, but you know what, the seller DOESN'T have any files in it(https://www.amazon.com/dp/B09XHF8HBH?plpRedirect=mhFallback&ref=clp_hp_h_pc&th=1):sob:, and I did SO much research that I came across ANOTHER video that was trying to find THEIR doorknob and I saw that they just used polyscan on their phone to just get it that way, so that is what I did(took SIX times btw) and still NONE of them worked because it's reflective :sob:.
-
-![alt text](image.png)
+    I spent WAY too long trying to find my exact door model, I did, but you know what, the seller DOESN'T have any files in it(https://www.amazon.com/dp/B09XHF8HBH?plpRedirect=mhFallback&ref=clp_hp_h_pc&th=1):sob:, and I did SO much research that I came across ANOTHER video that was trying to find THEIR doorknob and I saw that they just used polyscan on their phone to just get it that way, so that is what I did(took SIX times btw) and still NONE of them worked because it's reflective :sob:.
 
 **Total time spent: 5 hours**
 
@@ -42,3 +40,7 @@ Today, I am getting together my parts list!
     ![alt text](image-1.png)
 
 **Total time spend: 2 hours**
+
+# October 3: Adding more parts and creating the outline of how the servo will connect to the knob. Also finished the knob mainly
+    I didn't have a reason to get more detailed on the knob so I just did a simple loft. I added a door, esp32, and servo. Next time, I will add some wiring and work on the connection between the servo and the knob. I need to make it so that the knob will still be able to be turned to open.
+    ![alt text](<Screenshot 2026-10-04 at 8.16.29 PM.png>)
